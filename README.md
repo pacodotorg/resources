@@ -10,8 +10,8 @@ Over the past few years, I've bookmarked and stored lots of web resources that a
 
 ## Learn Web Design
 
-- HTML5 Tutorial(https://www.w3schools.com/html/)
-- CSS Tutorial(https://www.w3schools.com/css/)
+- [HTML5 Tutorial](https://www.w3schools.com/html/)
+- [CSS Tutorial](https://www.w3schools.com/css/)
 
 ## Fonts
 
