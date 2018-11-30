@@ -5,6 +5,7 @@
 ## Contents
 - [Preamble](#preamble)
 - [Learn Web Design](#learn-web-design)
+- [SQL](#sql)
 - [Fonts](#fonts)
 - [Text Editors](#text-editors)
 
@@ -19,6 +20,11 @@ Over the past few years, I've bookmarked and stored lots of web resources that a
 - [Basic HTML5 Structure](https://css-tricks.com/snippets/html/html5-page-structure/)
 - [HTML5 Element Index](http://html5doctor.com/element-index/)
 - [Filezilla HTML5 Web Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
+##SQL
+
+= [SQL Tutorial](https://www.w3schools.com/sql/)
+- [A Beginner's Guide to SQL](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
 
 ## Fonts
 
