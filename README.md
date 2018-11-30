@@ -4,6 +4,9 @@
  
 ## Contents
 - [Preamble](#preamble)
+- [Learn Web Design](#learn-web-design)
+- [Fonts](#fonts)
+- [Text Editors](#text-editors)
 
 ## Preamble
 Over the past few years, I've bookmarked and stored lots of web resources that are useful in my everyday web designing classes. Here's an attempt to put them all in one place (a work in progress, to be sure).
