@@ -6,4 +6,8 @@
 - [Preamble](#preamble)
 
 ## Preamble
-Over the past few years, I've ran bookmarked and stores lots of web resources are useful in my everyday web designing classes. Here's an attempt to put them all in one place.
+Over the past few years, I've bookmarked and stored lots of web resources that are useful in my everyday web designing classes. Here's an attempt to put them all in one place (a work in progress, to be sure).
+
+## Fonts
+
+- [Google Fonts](https://www.google.com/fonts)
